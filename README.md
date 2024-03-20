@@ -39,7 +39,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Summer Intern at DRDO ISSA lab, Delhi,IN
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact:Interests- Football, Bikes, Travels , yeah in that order <br>
+- :zap: Fun fact: Other interests- Football, Bikes, Travels , yeah in that order! <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
