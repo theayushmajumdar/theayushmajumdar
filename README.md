@@ -1,7 +1,5 @@
 <h2 align="left">
- <abc>
-  <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=131313DD&random=false&width=435&lines=Hi There !;I'm+Ayush+Majumdar%2C+Full+Stack+Web+Developer+and+ML+enthusiast+%F0%9F%92%BB" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Ayush Majumdar, Full Stack Web Developer and ML enthusiast :computer:<br>
+ <abc><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=BABABA&background=47464600&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Ayush+Majumdar;I'm+a+Full+Stack+Web+Developer+and+ML+enthusiast." alt="Typing SVG" /></a>
   <br>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" style="width: 500px; height: auto;">
 
