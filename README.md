@@ -1,12 +1,12 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushmajumdar&label=Profile%20views&color=0e75b6&style=flat" alt="theayushmajumdar" />  </p>-->
 <h2 align="left">
  <abc><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=BABABA&background=47464600&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Ayush+Majumdar;I'm+a+Full+Stack+Web+Developer+and+ML+enthusiast." alt="Typing SVG" /></a>
-  <br>
+<!--   <br>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coder GIF" style="width: 500px; height: auto;">
-
+ -->
  </abc> 
 </h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<!-- <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@
    <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> </a>
-    </p>
+    </p> -->
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
