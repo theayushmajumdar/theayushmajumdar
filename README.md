@@ -45,4 +45,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ayushmajumdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushmajumdar/)](https://www.linkedin.com/in/ayushmajumdar/?original_referer=) [![Twitter Badge](https://img.shields.io/badge/-@i_ayushmajumdar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i/flow/login?redirect_after_login=%2Fi_ayushmajumdar)](https://twitter.com/i/flow/login?redirect_after_login=%2Fi_ayushmajumdar)
+[![Linkedin Badge](https://img.shields.io/badge/-ayushmajumdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushmajumdar/)](https://www.linkedin.com/in/ayushmajumdar/?original_referer=) [![Twitter Badge](https://img.shields.io/badge/-@i_ayushmajumdar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/i_ayushmajumdar?t=ozZ534Z0QPlcqxssURWdLw&s=09)](https://x.com/i_ayushmajumdar?t=ozZ534Z0QPlcqxssURWdLw&s=09)
