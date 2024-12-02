@@ -38,7 +38,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently exploring Cloud.
-- :hourglass_flowing_sand: Exploring Google Cloud & Docker
+- :hourglass_flowing_sand: Exploring AWS & Docker
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Summer Intern at DRDO ISSA lab, Delhi,IN
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
